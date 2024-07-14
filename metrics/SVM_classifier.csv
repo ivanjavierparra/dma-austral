@@ -1,0 +1,2 @@
+Model;Best Score;Best Params
+SVM;0.8117896188318724;{'model__C': 10, 'model__kernel': 'linear'}

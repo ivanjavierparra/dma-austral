@@ -1,0 +1,5 @@
+Model;Best Score;Best Params
+SVM;0.8117896188318724;{'model__C': 10, 'model__kernel': 'linear'}
+Random Forest;0.8146163695459471;{'model__max_depth': 10, 'model__n_estimators': 100}
+Gradient Boosting;0.8174135723431497;{'model__learning_rate': 0.01, 'model__n_estimators': 100}
+MLP;0.8188121737417511;{'model__alpha': 0.0001, 'model__hidden_layer_sizes': (100,)}
